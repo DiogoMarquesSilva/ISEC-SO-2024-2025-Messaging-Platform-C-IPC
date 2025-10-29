@@ -39,5 +39,5 @@ The primary objective was to implement a **topic-based messaging platform** in *
 
 ## Authors
 
-* Diogo Marques Silva
-* João Pedro Vila Pomar
+* Diogo Silva
+* João Pomar
